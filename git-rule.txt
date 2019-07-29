@@ -1,0 +1,4 @@
+--rule:
+    0:anonimus
+    1:administrator
+    2:moderator
