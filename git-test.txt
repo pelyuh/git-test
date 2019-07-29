@@ -1,2 +1,12 @@
+<<<<<<< HEAD
 git test
 add branch
+=======
+drwxrwxr-x  3 user user 4096 лип 29 17:22 ./
+drwxrwxrwx 11 root root 4096 лип 26 11:51 ../
+drwxrwxr-x  8 user user 4096 лип 29 17:22 .git/
+-rw-rw-r--  1 user user   59 лип 29 17:22 git-rule.txt
+-rw-rw-r--  1 user user    9 лип 29 17:22 git-test.txt
+-rw-rw-r--  1 user user   46 лип 29 17:22 git-user.txt
+
+>>>>>>> dev
