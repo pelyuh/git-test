@@ -2,3 +2,4 @@
     0:anonimus
     1:administrator
     2:moderator
+    3:user
