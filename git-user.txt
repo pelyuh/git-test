@@ -1,3 +1,6 @@
+--user:'Anonimus'
+   status:active
+   rule:anonimus
 --user:'Dave'
    status:active
    rule:administrator
