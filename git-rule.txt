@@ -5,3 +5,4 @@
     3:user
     4:redactor
     5:author
+    6:client
