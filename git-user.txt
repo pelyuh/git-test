@@ -1,4 +1,9 @@
 --user:'Dave'
    status: active
+   rule: administrator
 --user:'Rest'
+   status: lock
 --user:'Kiwi'
+   status: active
+--user:'Cable'
+   status: active
