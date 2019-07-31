@@ -1,9 +1,12 @@
 --user:'Dave'
-   status: active
-   rule: administrator
+   status:active
+   rule:administrator
 --user:'Rest'
-   status: lock
+   status:lock
+   rule:user
 --user:'Kiwi'
-   status: active
+   status:active
+   rule:moderator
 --user:'Cable'
-   status: active
+   status:active
+   rule:moderator
