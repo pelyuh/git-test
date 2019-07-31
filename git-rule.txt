@@ -4,3 +4,4 @@
     2:moderator
     3:user
     4:redactor
+    5:author
