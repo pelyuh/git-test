@@ -13,3 +13,9 @@
 --user:'Cable'
    status:active
    rule:moderator
+--user:'Rem'
+   status:active
+   rule:user
+--user:'Tao'
+   status:active
+   rule:user
