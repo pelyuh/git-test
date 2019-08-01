@@ -22,3 +22,6 @@
 --user:'Rem'
    status:active
    rule:user
+--user:'Broono'
+   status:active
+   rule:user
