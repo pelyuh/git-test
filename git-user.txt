@@ -31,6 +31,3 @@
 --user:'Tao'
    status:active
    rule:user
---user:'Ozy'
-   status:active
-   rule:user
