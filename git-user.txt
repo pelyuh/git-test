@@ -25,3 +25,6 @@
 --user:'Broono'
    status:active
    rule:user
+--user:'Fresh'
+   status:active
+   rule:user
