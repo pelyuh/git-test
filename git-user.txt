@@ -13,7 +13,6 @@
 --user:'Cable'
    status:active
    rule:moderator
-<<<<<<< HEAD
 --user:'Paul'
    status:active
    rule:user
@@ -27,11 +26,8 @@
    status:active
    rule:user
 --user:'Fresh'
-=======
---user:'Rem'
    status:active
    rule:user
 --user:'Tao'
->>>>>>> dave
    status:active
    rule:user
