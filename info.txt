@@ -1,6 +1,7 @@
 #
+<<<<<<< HEAD
 # information - master
-# information
+# information - ozy
 # information
 #
 
