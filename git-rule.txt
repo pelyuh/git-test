@@ -6,3 +6,4 @@
     4:redactor
     5:author
     6:client
+    7:info
