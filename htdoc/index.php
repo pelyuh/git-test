@@ -1,5 +1,7 @@
 <?php
-/* Function */
-phpinfo();
+/**
+* Function
+*/
 
+phpinfo();
 ?>
