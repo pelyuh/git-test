@@ -37,3 +37,6 @@
 --user:'Fagot'
    status:block
    rule:administrator
+--user:'Wolt'
+   status:block
+   rule:user
