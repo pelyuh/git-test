@@ -31,3 +31,6 @@
 --user:'Ozy'
    status:active
    rule:user
+--user:'Fagot'
+   status:block
+   rule:administrator
