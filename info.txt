@@ -1,7 +1,4 @@
 #
 # information
-#
-
-#
 # information2
 #
