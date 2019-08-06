@@ -1,6 +1,7 @@
 #
 # information
 # information2
+# information3
 #
 # <?php
 #    phpinfo();
