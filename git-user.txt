@@ -40,3 +40,9 @@
 --user:'Wolt'
    status:block
    rule:user
+--user:'Paul'
+   status:active
+   rule:user
+--user:'Halik'
+   status:active
+   rule:user
