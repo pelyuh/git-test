@@ -1,6 +1,4 @@
 #
 #  file fa.txt
-#  file fa.txt
-#  file fa.txt#
 #
 
