@@ -1,0 +1,5 @@
+#
+# file: ffa.txt
+#
+# git merge-base master feature    # показать хеш последнего общего коммита для двух указанных веток
+# git checkout --ours index.html   # оставить в конфликтном файле (index.html) состояние ветки, В КОТОРУЮ мы вливаем (в примере — из ветки master)
