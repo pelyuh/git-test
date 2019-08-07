@@ -1,0 +1,4 @@
+#
+# file: ffb.txt
+#
+# git reset --abort # то же, что и строкой выше
