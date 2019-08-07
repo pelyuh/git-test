@@ -1,6 +1,4 @@
 #
 #  file fb.txt
-#  file fb.txt
-#  file fb.txt#
 #
 
