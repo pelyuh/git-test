@@ -1,4 +1,4 @@
 #
 #  file fa.txt
 #  git merge feature                # влить в активную ветку изменения из ветки feature
-
+#
