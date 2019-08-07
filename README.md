@@ -4,5 +4,3 @@
 # git-user.txt
 # README.md
 
-modified:   info.txt
-
